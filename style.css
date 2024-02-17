@@ -10,18 +10,22 @@
     gap: 12px;
 }
 #mySearch{
-    justify-content: center;
-    margin-left: 22px;
-    height: 35px;
-    width: 70vw;
-    border-radius: 7px;
-    font-size: 18px;
-    padding-left: 32px;
+    height: 41px;
+    width: 40vw;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-left: 47px;
+   
 }
 
 .searchblock img{
     float: right;
     height: 28px;
+   margin-right: 22px;
+}
+#menuicon {
+    /* float: right; */
+    height: 88px;
    margin-right: 22px;
 }
 .searchblock img:hover{
